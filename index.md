@@ -24,7 +24,7 @@ Main tech stack: Kubernetes, ArgoCD, Terraform, Helm, GitOps, Ansible, Docker, L
 
 `July 2023 - Present`
 
- __Standard SRE__, *Novatec Software*
+ __Site Reliability Engineer__, *Novatec Software*
 
 
 
