@@ -5,10 +5,11 @@ title: Miguel Angel Mena Barrera CV
 # Miguel Angel Mena Barrera 
 Computer Science Engineer.
 
-<!-- <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div> -->
+<div id="webaddress">
+<a href="www.linkedin.com/in/menabarrera">Linkedin</a>
+| mamb953@gmail.com
+| +34 664 63 77 51
+</div>
 
 
 ## About Me
@@ -24,8 +25,16 @@ Main tech stack: Kubernetes, ArgoCD, Terraform, Helm, GitOps, Ansible, Docker, L
 ### Novatec Consulting GmbH
 *July 2023 - Present*
 
-- **Junior Site Reliability Engineer** | July 2023 - December 2024
-- **Site Reliability Engineer** | January 2025 - Present
+- **Junior Site Reliability Engineer** |  July 2023 - December 2024
+- **Site Reliability Engineer** |  January 2025 - Present
+
+Working on iGaming project related to cloud migrations, K8S setups, infrastructure as code, modernization of microservices and infrastructure, configuration of monitoring, platform maintenance and responsability of the infrastructure. On-Call support.
+
+- *-Monitoring*: Grafana, Prometheus, EFK Stack, Splunk, Nagios
+- *-Infrastructure*: Terraform, Terragrunt, Helm, K8S, Ansible, Docker
+- *-CI/CD*: ArgoCD, Jenkins, Gitlab CI/CD
+- *-Cloud*: AWS, GCP, Baishan
+
 
 ### ELCA Information Technology
 *April 2022 - June 2023*
@@ -33,12 +42,23 @@ Main tech stack: Kubernetes, ArgoCD, Terraform, Helm, GitOps, Ansible, Docker, L
 - **Junior Full Stack Developer** | April 2022 - December 2022
 - **Junior DevOps** | November 2022 - June 2023
 
+Working on ticketing platform managing EC2 infrastructure, working on AWS to Oracle Cloud migration, and implementing synthetic API monitoring using SauceLabs. Responsible for infrastructure maintenance, deployment automation, and service reliability.
+
+- *-Monitoring*: Grafana, Prometheus
+- *-Infrastructure*: Terraform, Ansible, Docker
+- *-CI/CD*: Jenkins, Gitlab CI/CD
+- *-Cloud*: AWS, OCI
+
 ## Education
 
 `2015-2021`
 __University of Granada, Computer Science Engineering.__
 
-## Certificates
+## Languages
+
+- **Spanish: Native**
+- **English: C1 Aptis certificate**
+ 
 
 
 
