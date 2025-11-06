@@ -24,7 +24,7 @@ Main tech stack: Kubernetes, ArgoCD, Terraform, Helm, GitOps, Ansible, Docker, L
 
 `July 2023 - Present`
 
-__Junior SRE (2023 - 2024)__, __Standard SRE (2025)__, *Novatec Software Engineering*
+__Junior SRE (2023 - 2024)__, __Standard SRE (2025)__, *Novatec Software*
 
 
 
