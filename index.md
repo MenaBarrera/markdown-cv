@@ -22,13 +22,12 @@ Main tech stack: Kubernetes, ArgoCD, Terraform, Helm, GitOps, Ansible, Docker, L
 
 ## Experience
 
-### Novatec Consulting GmbH
 `July 2023 - Present`
 
-- __Junior Site Reliability Engineer__  
+- __Junior Site Reliability Engineer__, *Novatec Software Engineering* 
 `July 2023 - December 2024`
 
-- __Site Reliability Engineer__
+- __Site Reliability Engineer__, *Novatec Software Engineering*
 `January 2025 - Present`
 
 Working on iGaming project related to cloud migrations, K8S setups, infrastructure as code, modernization of microservices and infrastructure, configuration of monitoring, platform maintenance and responsability of the infrastructure. On-Call support.
@@ -39,11 +38,9 @@ Working on iGaming project related to cloud migrations, K8S setups, infrastructu
 - *-Cloud*: AWS, GCP, Baishan
 
 
-### ELCA Information Technology
-`April 2022 - June 2023`
 
-- __Junior Full Stack Developer__ | `April 2022 - December 2022`
-- __Junior DevOps__ | `November 2022 - June 2023`
+`April 2022 - June 2023`
+__Junior DevOps__, *ELCA Information Technology* 
 
 Working on ticketing platform managing EC2 infrastructure, working on AWS to Oracle Cloud migration, and implementing synthetic API monitoring using SauceLabs. Responsible for infrastructure maintenance, deployment automation, and service reliability.
 
