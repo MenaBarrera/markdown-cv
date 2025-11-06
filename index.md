@@ -24,8 +24,8 @@ Main tech stack: Kubernetes, ArgoCD, Terraform, Helm, GitOps, Ansible, Docker, L
 
 `July 2023 - Present`
 
-__Junior Site Reliability Engineer__, *Novatec Software Engineering* ` ` 
-__Site Reliability Engineer__, *Novatec Software Engineering*
+__Junior Site Reliability Engineer__, __Site Reliability Engineer__, *Novatec Software Engineering*
+
 
 
 Working on iGaming project related to cloud migrations, K8S setups, infrastructure as code, modernization of microservices and infrastructure, configuration of monitoring, platform maintenance and responsability of the infrastructure. On-Call support.
