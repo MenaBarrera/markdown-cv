@@ -3,7 +3,7 @@ layout: cv
 title: Miguel Angel Mena Barrera CV
 ---
 # Miguel Angel Mena Barrera 
-Computer Science Engineer.
+DevOps Engineer, SRE, Cloud Engineer.
 
 <div id="webaddress">
 <a href="www.linkedin.com/in/menabarrera">Linkedin</a>
