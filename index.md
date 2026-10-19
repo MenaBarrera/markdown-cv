@@ -22,7 +22,21 @@ Main tech stack: Kubernetes, ArgoCD, Terraform, Helm, GitOps, Ansible, Docker, L
 
 ## Experience
 
-`July 2023 - Present`
+### Innocv Solutions
+*<March 2026> - Present*
+
+- **DevOps / Cloud Infrastructure Engineer** | <mes año> - Present
+
+Designing and implementing cloud infrastructure for banking and insurance clients across AWS, GCP and Azure. Responsible for landing zone and multi-environment Terraform design, Kubernetes platform operations (EKS, GKE Autopilot), event-driven data pipelines, observability stacks and CI/CD standardization. Work includes cross-account S3 replication with sub-second SLA (EventBridge, NLB, IRSA, KMS, SQS DLQ, reconciliation CronJobs), a Keycloak SPI integrated with AWS CloudHSM via PKCS#11 for HSM-backed JWT signing, Appian process metrics pipelines ingested through Fluentd into Dynatrace, a centralized GitHub Actions token system, keyless Azure DevOps → GCP authentication with Workload Identity Federation and OIDC, and architecture documentation and client-facing technical support.
+
+- *-Monitoring*: Dynatrace, Fluentd, SonarQube/SonarCloud
+- *-Infrastructure*: Terraform, Helm, K8S (EKS, GKE Autopilot), Docker, AWS CDK
+- *-CI/CD*: GitHub Actions, Azure DevOps, ArgoCD
+- *-Cloud*: AWS, GCP, Azure
+- *-Other*: Keycloak, AWS CloudHSM, Confluent/Kafka, Cloud SQL, OpenVPN
+
+### Novatec Consulting GmbH
+*July 2023 - March 2026*
 
  __Site Reliability Engineer__, *Novatec Software*
 
