@@ -3,7 +3,7 @@ layout: cv
 title: Miguel Angel Mena Barrera CV
 ---
 # Miguel Angel Mena Barrera 
-Computer Science Engineer.
+DevOps Engineer, SRE, Cloud Engineer.
 
 <div id="webaddress">
 <a href="www.linkedin.com/in/menabarrera">Linkedin</a>
@@ -38,8 +38,9 @@ Designing and implementing cloud infrastructure for banking and insurance client
 ### Novatec Consulting GmbH
 *July 2023 - March 2026*
 
-- **Junior Site Reliability Engineer** |  July 2023 - December 2024
-- **Site Reliability Engineer** |  January 2025 - Present
+ __Site Reliability Engineer__, *Novatec Software*
+
+
 
 Working on iGaming project related to cloud migrations, K8S setups, infrastructure as code, modernization of microservices and infrastructure, configuration of monitoring, platform maintenance and responsability of the infrastructure. On-Call support.
 
@@ -49,11 +50,9 @@ Working on iGaming project related to cloud migrations, K8S setups, infrastructu
 - *-Cloud*: AWS, GCP, Baishan
 
 
-### ELCA Information Technology
-*April 2022 - June 2023*
 
-- **Junior Full Stack Developer** | April 2022 - December 2022
-- **Junior DevOps** | November 2022 - June 2023
+`April 2022 - June 2023`
+__Junior DevOps__, *ELCA Information Technology* 
 
 Working on ticketing platform managing EC2 infrastructure, working on AWS to Oracle Cloud migration, and implementing synthetic API monitoring using SauceLabs. Responsible for infrastructure maintenance, deployment automation, and service reliability.
 
